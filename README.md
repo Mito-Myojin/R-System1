@@ -1,7 +1,10 @@
 # R-System1
-講義の課題1として提出したデバイスドライバです。LEDが光ります。
+講義の課題1として提出したデバイスドライバです。
+
+入力によりLEDの挙動を操作します。
 
 # Demo
+https://youtu.be/Fi55fc6zFZ0
 
 # Features
 - LEDの点灯
