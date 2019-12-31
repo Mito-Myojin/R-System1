@@ -1,2 +1,0 @@
-echo hoge
-echo hoge
