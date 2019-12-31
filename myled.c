@@ -10,7 +10,7 @@
 // -----モジュール情報-----
 MODULE_AUTHOR("Mito-Myojin");
 MODULE_DESCRIPTION("driver for LED control");
-MODULE_LICENSE("GPL");
+MODULE_LICENSE("MIT");
 MODULE_VERSION("1.0");
 
 
