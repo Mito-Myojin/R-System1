@@ -1,3 +1,5 @@
+// SPDX-License-Identifier: GPL-.0
+
 #include <linux/module.h>
 #include <linux/fs.h>
 #include <linux/cdev.h>
